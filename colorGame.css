@@ -86,3 +86,15 @@ p{
 		margin: 10px auto;
 		font-size: 30px;
 }
+/*#content{
+	position: relative;
+}*/
+img{
+	position: absolute;
+	top:1em;
+	right:1em;
+	/*width: 20%;*/
+	height: 20%;
+	max-height: 30%;
+	max-width: 30%;
+}
