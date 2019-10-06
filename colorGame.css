@@ -93,8 +93,7 @@ img{
 	position: absolute;
 	top:1em;
 	right:1em;
-	/*width: 20%;*/
-	height: 20%;
-	max-height: 30%;
-	max-width: 30%;
+	height: auto;
+    width: 10%;
+    max-width: 100%;
 }
