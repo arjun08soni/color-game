@@ -74,5 +74,15 @@ button{
 button:hover{
 	background: #52de97;
 	color:white;
+	outline: none;
 
+}
+p{
+		background: #3c4245;
+		color: #52de97;
+		text-align: center;
+		height: 100%;
+		width:80%;
+		margin: 10px auto;
+		font-size: 30px;
 }
